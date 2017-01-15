@@ -1,2 +1,3 @@
 # async_tasks
-Any experiments with async-oriented frameworks/libs/etc
+
+async_chat - simple python chat based on asyncio
